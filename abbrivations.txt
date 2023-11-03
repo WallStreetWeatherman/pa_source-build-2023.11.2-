@@ -1,0 +1,6 @@
+MRS = Mean Reversion Strategy
+DCF = Discounted Cash Flow
+SenA = Sensitivity Analysis
+SceA = Scenario Analysis
+SGHG = Stable-Growth, High-Growth
+BWCS = Best-Worst Case Scenario

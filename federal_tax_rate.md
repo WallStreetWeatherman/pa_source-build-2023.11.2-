@@ -1,0 +1,1 @@
+(Federal income statutory rate 21%)

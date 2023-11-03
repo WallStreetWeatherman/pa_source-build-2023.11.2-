@@ -1,0 +1,1 @@
+Higher Volatility: A beta of 1.70 suggests that the stock is approximately 70% more volatile than the market index. If the market index goes up by 1%, you can expect the stock to go up by approximately 1.70%, and vice versa

@@ -1,0 +1,45 @@
+Determining what constitutes a "good" or "bad" value for a financial metric depends on a multitude of factors such as the company's industry, growth stage, business model, and the economic environment, among other things. Here are a few general guidelines:
+
+Context Matters
+Industry Norms: Different industries have different standards for what's considered a healthy metric.
+
+Historical Performance: One way to gauge a metric's strength is by comparing it to the company's historical data.
+
+Peer Comparison: Comparing metrics to other businesses in the same sector can provide context.
+
+Economic Environment: Economic conditions, like a recession or a boom, can affect what's considered "good" or "bad" for a metric.
+
+Relative Metrics
+Percentiles or Z-Scores: You can convert raw metrics into a percentile rank or z-score among a group of comparable companies to gauge relative performance.
+Interpretation of Some Common Metrics
+P/E Ratio: Generally, a high P/E ratio means that investors are expecting higher growth in the future, whereas a low P/E ratio could mean the stock is undervalued or that investors are expecting lower growth.
+
+Debt to Equity: A high ratio may indicate that the company has been aggressive in financing its growth with debt, which could result in volatile earnings. However, some industries naturally have higher debt to equity ratios.
+
+Free Cash Flow: Positive free cash flow is usually a good sign, indicating the company is generating more than it needs to maintain the business.
+
+ROE, ROA, ROI: The higher these are, the more effectively the company is using its resources to make profit, but too high might mean the company is not reinvesting enough back into the business.
+
+Current and Quick Ratios: A current ratio below one indicates potential liquidity issues, but too high a ratio might indicate inefficiency in using resources.
+
+Gross Margin: A company with a high gross margin compared to its competitors or industry might have a competitive advantage like brand power, economies of scale, or a proprietary technology.
+
+Advanced Techniques
+Sensitivity Analysis: Evaluating how sensitive a company’s valuation is to changes in different metrics.
+
+Scenario Analysis: Assessing "best" and "worst" case scenarios based on different levels of metrics.
+
+DCF Models: Discounted cash flow models can provide a comprehensive valuation based on multiple metrics.
+
+Professional Guidance
+Consult Experts: Many investors consult financial advisors, or look at analyst reports which often contain industry-specific metrics and guidelines.
+In summary, there's no one-size-fits-all answer. Determining "good" or "bad" values for metrics often involves a multi-faceted analysis and the interpretation can change based on the context.
+
+create a mean, median and mode of stock price 
+
+create a profitabliity script that tells you if a company is proiftable or not 
+based on fundamental metrics etc 
+
+updated MM decimal handling
+
+replacement value model script

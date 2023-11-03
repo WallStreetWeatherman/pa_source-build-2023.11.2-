@@ -1,0 +1,28 @@
+Ohlson O-Score
+Developed by James Ohlson, the Ohlson O-Score is designed to predict the probability that a company will go bankrupt. It uses a logistic function to incorporate several accounting variables and is considered one of the robust models for bankruptcy prediction.
+
+Beneish M-Score (Different from Benish)
+The Beneish M-Score is another statistical model used to detect earnings manipulation. Developed by Messod Beneish, it is similar in intent to the Benish M-Score but uses a different set of variables.
+
+DuPont Analysis
+The DuPont analysis breaks down the return on equity (ROE) into several different components to analyze the root cause of the company's profitability. Though it's not a "score" per se, DuPont analysis provides a detailed look at the drivers of a company's profitability.
+
+Taffler Z-Score
+Another metric designed for bankruptcy prediction, the Taffler Z-Score uses four financial ratios and is specifically designed for UK-based companies. It is similar in many ways to the Altman Z-Score but tailored for a different market.
+
+Springate Model
+This is another bankruptcy prediction model that uses four financial ratios. Unlike the Altman Z-Score, the Springate Model is considered simpler and is often used for smaller companies.
+
+Zmijewski Score
+This bankruptcy prediction model uses three financial ratios and is based on a logistic model, similar to the Ohlson O-Score. It aims to predict bankruptcy within a year and is often used in parallel with other scores for more comprehensive analysis.
+
+Current Ratio, Quick Ratio, and Debt-to-Equity Ratio
+While not composite "scores," these financial ratios are often used in fundamental analysis to gauge liquidity and solvency. They are considered baseline metrics that provide insight into a company's financial health.
+
+Graham Number and Graham Formula
+Named after the father of value investing, Benjamin Graham, these metrics are used to find the intrinsic value of a stock. Though they don't provide a "score," they are part of a fundamental analysis toolkit.
+
+Free Cash Flow Models (e.g., DCF Analysis)
+Discounted Cash Flow (DCF) analysis isn't a score but is a common method for estimating the value of an investment based on its expected future cash flows. This form of valuation plays a crucial role in investment analysis.
+
+These are just a few examples, and each has its strengths, limitations, and best-use scenarios. Due diligence often involves using multiple metrics and models to get a comprehensive understanding of a company's financial health.
